@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-![](Resources/MPG_linear_regression.png)
+[](Resources/MPG_linear_regression.png)
 ## Summary Statistics on Suspension Coils
 ![](Resources/Total_summary.png)
 ![](Resources/Lot_summary.png)
